@@ -19,7 +19,7 @@ namespace Server.Misc
         */
 		private static readonly string CustomPath = Config.Get(@"DataPath.CustomPath", default(string));
 
-		static DataPath()
+        static DataPath()
 		{
 			string path;
 
