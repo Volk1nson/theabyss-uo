@@ -276,9 +276,11 @@
     <Compile Include="Context Menus\TeachEntry.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Custom\Cape\DruidCloak.cs" />
     <Compile Include="Custom\DemonJewelry\DaemonBracelet.cs" />
     <Compile Include="Custom\DemonJewelry\DaemonNecklace.cs" />
     <Compile Include="Custom\FightMasks\TribalMaskFencing.cs" />
+    <Compile Include="Custom\TrollBeads\TrollBeads.cs" />
     <Compile Include="Deprecated\GamblingStone.cs" />
     <Compile Include="Deprecated\GMStone.cs" />
     <Compile Include="Gumps\AddCustomizableMessageGump.cs" />
