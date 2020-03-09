@@ -1,4 +1,4 @@
-# [ServUO]
+# [TheAbyssUO]
 
 [![Build Status](https://travis-ci.com/ServUO/ServUO.svg?branch=master)](https://travis-ci.com/ServUO/ServUO)
 [![GitHub issues](https://img.shields.io/github/issues/servuo/servuo.svg)](https://github.com/ServUO/ServUO/issues)
@@ -55,5 +55,5 @@ GPL v2
 
 
 
-   [ServUO]: <https://www.servuo.com>
-   [Quickstart]: <https://www.servuo.com/wiki/startup/>
+   [TheAbyssUO]: <http://www.volkinson.com>
+   [Quickstart]: <http://www.volkinson.com/wiki/startup/>
