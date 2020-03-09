@@ -13,7 +13,7 @@ ServUO is a community driven Ultima Online Server Emulator written in C#.
 
 ### Website
 
-https://www.servuo.com
+http://www.volkinson.com
 
 ### Installation
 
