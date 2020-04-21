@@ -1025,7 +1025,7 @@ namespace Server.Spells
 		public abstract TimeSpan CastDelayBase { get; }
 
 		public virtual double CastDelayFastScalar { get { return 1; } }
-		public virtual double CastDelaySecondsPerTick { get { return 0.25; } }
+		public virtual double CastDelaySecondsPerTick { get { return 0.00; } } //TODO: public virtual double CastDelaySecondsPerTick { get { return 0.25; } }
 		public virtual TimeSpan CastDelayMinimum { get { return TimeSpan.FromSeconds(0.25); } }
 
 		public virtual TimeSpan GetCastDelay()
