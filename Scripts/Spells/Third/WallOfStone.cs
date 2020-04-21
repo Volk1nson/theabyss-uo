@@ -69,7 +69,7 @@ namespace Server.Spells.Third
 
                 Effects.PlaySound(p, Caster.Map, 0x1F6);
 
-                for (int i = -1; i <= 1; ++i)
+                for (int i = -3; i <= 3; ++i)
                 {
                     Point3D loc = new Point3D(eastToWest ? p.X + i : p.X, eastToWest ? p.Y : p.Y + i, p.Z);
 

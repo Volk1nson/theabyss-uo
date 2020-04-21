@@ -542,7 +542,7 @@ namespace Server.Mobiles
                 get
                 {
                     return
-                            TimeSpan.FromSeconds(Core.AOS ? 3.0 : 2.0);
+                            TimeSpan.FromSeconds(Core.AOS ? 0.0 : 2.0);
                 }
             }
 
@@ -563,7 +563,7 @@ namespace Server.Mobiles
 
             public override bool CheckFizzle()
             {
-                return true;
+                return false;
             }
 
             public void Stop()
